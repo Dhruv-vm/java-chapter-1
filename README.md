@@ -13,4 +13,26 @@ Who knows? My homework might just save yours 😉
 
 ## 📂 Repository Structure
 Each program is neatly saved as a `.java` file and named after its topic. Examples:  
-hello.java-hello world program
+
+## ▶️ hello world program
+1.⁠ ⁠⁠ hello.java 
+  
+2)
+# 🧮 Java Calculator Program  
+
+This program takes *two numbers* as input and performs:  
+➕ Addition  
+➖ Subtraction  
+✖️ Multiplication  
+➗ Division  
+
+3)
+# 🔢 Positive or Negative Number Checker  
+
+This Java program checks whether a given number is:  
+✅ Positive  
+❌ Negative  
+
+   javac learn.java
+
+✨ More programs coming soon...
