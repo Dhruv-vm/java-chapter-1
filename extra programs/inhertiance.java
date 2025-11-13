@@ -1,0 +1,17 @@
+public class inhertiance{
+    public static void main(String[] args) {
+        Dog d=new Dog();
+        d.bark();
+        d.eat();
+    }
+}
+class Animal{
+    void eat(){
+        System.out.println("animals can eat");
+    }
+}
+class Dog extends Animal{
+    void bark(){
+        System.out.println("dog can bark");
+    }
+}
